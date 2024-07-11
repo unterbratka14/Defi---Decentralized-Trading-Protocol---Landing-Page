@@ -1,5 +1,8 @@
 # React + TypeScript + Vite
 
+<img width="1440" alt="Screenshot 2024-07-11 at 12 20 51" src="https://github.com/unterbratka14/Defi---Decentralized-Trading-Protocol---Landing-Page/assets/137570529/de90b47d-e430-495f-82d3-5de14d365c2a">
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
